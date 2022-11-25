@@ -1,0 +1,9 @@
+01-19 21:20:15 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 213:Plugin executed on: 'win32'
+01-19 21:20:15 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 214:Plugin executed with python version: '3.9.6 (default, Sep 27 2021, 21:15:11) [MSC v.1929 64 bit (AMD64)]'
+01-19 21:20:15 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 215:KiCad build version: (6.0.1)
+01-19 21:20:15 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 216:Plugin version: 1.0.1
+
+01-19 21:20:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 12:Starting to archive 3D models
+01-19 21:20:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 33:Getting 3D models for footprint of: J1
+01-19 21:20:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 44:Trying to copy: C:/Users/dkkang/Documents/KiCad/6.0/3dmodels/67910-5700--3DModel-STEP-1.STEP
+01-19 21:20:17 com_github_MitjaNemec_Archive3DModels.archive_3d_models 103:Remapping: C:/Users/dkkang/Documents/KiCad/6.0/3dmodels/67910-5700--3DModel-STEP-1.STEP
